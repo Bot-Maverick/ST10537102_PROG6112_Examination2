@@ -1,0 +1,36 @@
+DATA LOG
+****************************************
+Customer Name: Nanashii
+Product: Cozy Nights Monarch
+VAT: R 525,00
+COMMISSION: R 175,00
+TOTAL: R 4200,00
+****************************************
+
+DATA LOG
+****************************************
+Customer Name: Nanashii
+Product: Cozy Nights Monarch
+VAT: R 525,00
+COMMISSION: R 175,00
+TOTAL: R 4200,00
+****************************************
+
+DATA LOG
+****************************************
+Customer Name: Nanashii
+Product: Cozy Nights Monarch
+VAT: R 525,00
+COMMISSION: R 175,00
+TOTAL: R 4200,00
+****************************************
+
+DATA LOG
+****************************************
+Customer Name: Nanashii
+Product: Cozy Nights Monarch
+VAT: R 525,00
+COMMISSION: R 175,00
+TOTAL: R 4200,00
+****************************************
+
